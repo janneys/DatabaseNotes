@@ -1402,7 +1402,7 @@ read uncommitted>read committed>repeatable read>serializable
 
 
 
-######参考资料：
+#### 参考资料：
 
 [一天学会 MySQL 数据库](https://www.bilibili.com/video/BV1Vt411z7wy/)
 
