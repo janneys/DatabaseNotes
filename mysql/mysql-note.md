@@ -96,15 +96,15 @@ mysql支持多种数据类型， 大致可分为三类：
 
 - 数值
 
-![img](mysql%20note%2007fcb13dc5824ea498c47599530fbfcd/Untitled.png)
+![img](https://github.com/janneys/DatabaseNotes/blob/master/mysql/img/Untitled.png)
 
 - 日期/时间
 
-![img](mysql%20note%2007fcb13dc5824ea498c47599530fbfcd/Untitled%201.png)
+![img](https://github.com/janneys/DatabaseNotes/blob/master/mysql/img/Untitled%201.png)
 
 - 字符串（字符）
 
-![img](mysql%20note%2007fcb13dc5824ea498c47599530fbfcd/Untitled%202.png)
+![img](https://github.com/janneys/DatabaseNotes/blob/master/mysql/img/Untitled%202.png)
 
 - 日期选择按照格式， 数值和字符串选择按照大小
 
